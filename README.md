@@ -7,3 +7,5 @@ demo for git demo
 
 # Git cheatsheat 
 1. chnage number #1
+2. change number #2
+3. change number #3
